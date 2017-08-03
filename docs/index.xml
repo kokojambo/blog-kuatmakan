@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2017 00:45:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Its A Start</title>
+      <link>http://example.org/posts/its-a-start/</link>
+      <pubDate>Fri, 04 Aug 2017 00:45:00 +0800</pubDate>
+      
+      <guid>http://example.org/posts/its-a-start/</guid>
+      <description>01 - Well this is a fresh start afterall I did a fresh start previously using Hugo as my base on static content. Initially it was full of bugs, got annoyed with all the tweaks end up turned horrible.
+As a normal human being, sometimes rather than fixing it, you try to source out any alternatives. I looked at the Hexo and it seems pretty nice, but few people on forums mentioned that it can get slow after you have more content and most of the people suggested that Hugo is the fastest in rendering static content.</description>
+    </item>
+    
+  </channel>
+</rss>
