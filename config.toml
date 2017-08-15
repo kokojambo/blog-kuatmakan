@@ -1,6 +1,6 @@
 baseURL = "https://kokojambo.github.io/blog-kuatmakan/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Kuat Makan"
 theme = "hyde"
 publishDir = "docs"
 
